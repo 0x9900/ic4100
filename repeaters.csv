@@ -352,12 +352,13 @@ Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency
 8,Europe-Western,Fontbruno,France,F5ZJL  B,F5ZJL  G,430.225000,DUP+,1.600000,DV,OFF,82.5Hz,Yes,Approximate,43.470000,2.260000,+01:00
 8,Europe-Western,Gap,France,F1ZYH  B,F1ZYH  G,439.350000,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,44.620000,6.120000,+01:00
 8,Europe-Western,Haguenau,France,F1ZDZ  B,F1ZDZ  G,430.375000,DUP+,9.400000,DV,OFF,82.5Hz,Yes,Approximate,48.830000,7.810000,+01:00
+8,Europe-Western,Jugeals,France,F1ZJO  B,F1ZJO  G,439.825000,DUP+,9.400000,DV,OFF,82.5Hz,Yes,Approximate,45.170000,1.920000,+01:00
 8,Europe-Western,La Gavotte,France,F5ZLB  B,F5ZLB  G,439.875000,DUP-,9.400000,DV,OFF,82.5Hz,Yes,Approximate,43.380000,5.340000,+01:00
 8,Europe-Western,Le Bourg-Dun,France,F5ZKO  B,F5ZKO  G,439.350000,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,49.890000,0.900000,+01:00
 8,Europe-Western,Le Larmont,France,F5ZCV  B,F5ZCV  G,443.500000,DUP-,0.000000,DV,OFF,82.5Hz,Yes,Approximate,46.900000,6.400000,+01:00
+8,Europe-Western,Lyon urbain,France,F1ZJH  B,F1ZJH  G,439.562500,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,45.750000,4.840000,+01:00
 8,Europe-Western,Lyon,France,F1ZDI  B,F1ZDI  G,439.350000,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,45.780000,4.670000,+01:00
 8,Europe-Western,Lyon,France,F1ZEM  B,F1ZEM  G,439.512500,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,45.430000,5.010000,+01:00
-8,Europe-Western,Lyon urbain,France,F1ZJH  B,F1ZJH  G,439.562500,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,45.750000,4.840000,+01:00
 8,Europe-Western,Marseille,France,F1ZJN  B,F1ZJN  G,439.350000,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,43.320000,5.380000,+01:00
 8,Europe-Western,Moirans-en-Monta,France,F1ZJR  B,F1ZJR  G,430.450000,DUP+,9.400000,DV,OFF,82.5Hz,Yes,Approximate,46.440000,5.730000,+01:00
 8,Europe-Western,Monneville,France,F5ZFY  B,F5ZFY  G,439.912500,DUP-,9.400000,DV,OFF,82.5Hz,Yes,Approximate,49.210000,1.970000,+01:00
@@ -368,6 +369,7 @@ Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency
 8,Europe-Western,Saint Amand les ,France,F1ZLX  B,F1ZLX  G,430.425000,DUP+,9.400000,DV,OFF,82.5Hz,Yes,Approximate,50.440000,3.450000,+01:00
 8,Europe-Western,Saint Chaffrey,France,F1ZDF  B,F1ZDF  G,439.350000,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,44.930000,6.600000,+01:00
 8,Europe-Western,Saint Raphael,France,F1ZIL  B,F1ZIL  G,439.350000,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,43.440000,6.800000,+01:00
+8,Europe-Western,Sainte-Anne,France,F5ZKE  B,F5ZKE  G,439.850000,DUP-,9.400000,DV,OFF,82.5Hz,Yes,Approximate,45.500000,5.240000,+01:00
 8,Europe-Western,St Appolinard,France,F1ZID  B,F1ZID  G,430.200000,DUP+,9.400000,DV,OFF,82.5Hz,Yes,Approximate,45.350000,4.650000,+01:00
 8,Europe-Western,Thionville,France,F5ZKN  B,F5ZKN  G,438.500000,DUP-,7.600000,DV,OFF,82.5Hz,Yes,Approximate,49.380000,6.140000,+01:00
 8,Europe-Western,Toulouse,France,F1ZGG  B,F1ZGG  G,439.900000,DUP-,9.400000,DV,OFF,82.5Hz,Yes,Approximate,43.620000,1.460000,+01:00
@@ -376,8 +378,6 @@ Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency
 8,Europe-Western,Valenciennes,France,F1ZBE  B,F1ZBE  G,433.025000,DUP-,1.600000,DV,OFF,82.5Hz,Yes,Approximate,50.370000,3.510000,+01:00
 8,Europe-Western,Valenciennes,France,F1ZGY  B,F1ZGY  G,433.025000,DUP-,1.600000,DV,OFF,82.5Hz,Yes,Approximate,50.370000,3.510000,+00:00
 8,Europe-Western,Vosges du Nord,France,F5ZEE  B,F5ZEE  G,439.800000,DUP-,9.400000,DV,OFF,82.5Hz,Yes,Approximate,48.980000,7.620000,+01:00
-8,Europe-Western,Jugeals,France- Metropolitan,F1ZJO  B,F1ZJO  G,439.825000,DUP+,9.400000,DV,OFF,82.5Hz,Yes,Approximate,45.170000,1.920000,+01:00
-8,Europe-Western,Sainte-Anne-sur-,France- Metropolitan,F5ZKE  B,F5ZKE  G,439.850000,DUP-,9.400000,DV,OFF,82.5Hz,Yes,Approximate,45.500000,5.240000,+01:00
 11,Islands,Santa Cruz,Aruba,P43L   B,P43L   G,440.500000,DUP-,7.600000,DV,OFF,88.5Hz,YES,Approximate,12.520000,-69.990000,-4:00
 11,Islands,St. James,Trinidad,9Y4TT  C,9Y4TT  G,147.850000,DUP-,0.600000,DV,OFF,88.5Hz,YES,Approximate,10.680000,-61.530000,-4:00
 11,Islands,Willemstad,Curacao,PJ2A   B,PJ2A   G,433.900000,DUP+,5.000000,DV,OFF,88.5Hz,YES,Approximate,12.100000,-68.900000,-4:00
