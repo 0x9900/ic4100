@@ -1,7 +1,5 @@
 Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency,Dup,Offset,Mode,TONE,Repeater Tone,RPT1USE,Position,Latitude,Longitude,UTC Offset
 1,Home,openSPOT,SharkRF,,,445.520000,OFF,0.000000,DV,OFF,88.5Hz,YES,Exact,37.458833,-122.247667,-8:00
-2,Asia,Columbus,Georgia,WB4ULK B,WB4ULK G,444.612500,DUP+,5.000000,DV,OFF,88.5Hz,YES,Approximate,32.640000,-84.820000,--:--
-2,Asia,Warner Robins,Georgia,WM4B   B,WM4B   G,440.575000,DUP+,5.000000,DV,OFF,88.5Hz,YES,Approximate,32.620000,-83.640000,--:--
 3,United Kingdom,ABERGAVENNY,Wales,MB6AA  C,MB6AA  G,144.837500,DUP-,0.000000,DV,OFF,88.5Hz,YES,Approximate,51.833800,-3.095500,0:00
 3,United Kingdom,Aberdeen,Scotland,GB7GD  C,GB7GD  G,145.687500,DUP-,0.600000,DV,OFF,88.5Hz,YES,Approximate,57.119983,-2.150000,0:00
 3,United Kingdom,Aberdeen,Scotland,MB6ST  C,MB6ST  G,144.837500,DUP+,0.000000,DV,OFF,88.5Hz,YES,Approximate,57.193167,-2.258833,0:00
